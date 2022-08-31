@@ -1,1 +1,1 @@
-delete betty
+delete my first directory from /tmp
